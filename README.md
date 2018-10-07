@@ -9,3 +9,5 @@ npm init
   sudo npm install -g bower
 
 bower init
+
+touch .bowerrc
