@@ -11,3 +11,11 @@ npm init
 bower init
 
 touch .bowerrc
+
+# clone git
+git clone <link>
+
+# start server
+npm install express
+
+node server.js 
