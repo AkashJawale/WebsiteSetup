@@ -13,7 +13,7 @@ bower init
 touch .bowerrc
 
 # clone git
-git clone <link>
+git clone link
 
 # start server
 npm install express
